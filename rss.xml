@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>五千年</title>
+    <link>https://hailion1999-droid.github.io/5000years</link>
+    <description></description>
+    <language>zh-CN</language>
+    <generator>GitPress</generator>
+    <item>
+      <title>你好,世界</title>
+      <link>https://hailion1999-droid.github.io/5000years/posts/hello-world/</link>
+      <guid>https://hailion1999-droid.github.io/5000years/posts/hello-world/</guid>
+      <pubDate>Sat, 12 Sep 2026 17:40:05 GMT</pubDate>
+      <description>我在 GitPress 上的第一篇文章。</description>
+    </item>
+  </channel>
+</rss>
